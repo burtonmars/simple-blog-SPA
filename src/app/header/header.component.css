@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #efefef;
+}
+
+nav {
+    padding-left: 5vw;
+    padding-right: 5vw;
+    display: flex;
+    justify-content: space-between;
+    height: 10vh;
+    align-items: center;
+    background: #353535;
+}
+
+ul {
+    display: flex;
+    width: 25vw;
+    justify-content: space-between;
+}
+
+a {
+    text-decoration: none;
+    color: #efefef;
+}
